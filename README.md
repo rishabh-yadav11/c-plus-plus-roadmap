@@ -33,7 +33,7 @@ Okay, now move to the control flow statements of the C++ programming language. P
 ##### 3.[Switch Statement in C/C++]()
 ##### 4.[Continue and Break Statement]()
 ##### 5.[Execute both if and else statements in C++ simultaneously]()
-##### 6.[Arrays in C/C++]()/
+##### 6.[Arrays in C/C++]()
 ##### 7.[Strings in C++ and How to Create them]() 
 ##### 8.[Pointers in C++ ]()
 ##### 9.[Pointers vs References in C++]()
